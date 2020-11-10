@@ -23,7 +23,10 @@ enableEmoji: true
 
 # Site parameters
 params:
-
+  logo: 
+    main: images/blank.png
+    inverted: images/blank.png
+    favicon: images/blank.png
   background: images/video.gif
 
   # GitHub repo URL of your site

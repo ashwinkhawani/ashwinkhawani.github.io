@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://ashwinkhawani.github.io
 
 languageCode: en-us
 title: "Ashwin Khawani"
@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://ashwinkhawani.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false

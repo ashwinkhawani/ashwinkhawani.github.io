@@ -11,16 +11,32 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Java
+  icon: "/images/sections/skills/java.png"
+  summary: "Capable of programming various applications and troubleshooting issues with Java environments. Experienced in development tools such as Eclipse."
+  url: "https://www.oracle.com/java/"
 
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: HTML
+  icon: "/images/sections/skills/HTML.png"
+  summary: "Experienced in developing websites using a combination of HTML, CSS, XML, and Javascript to create intuitive user experiences. "
+  url: "https://whatwg.org/"
 
-- name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Javascript
+  icon: "/images/sections/skills/javascript.jpg"
+  summary: "Experienced in Cross-browser HTML, CSS JavaScript coding to offer responsive website layouts to modern browsers and mobile devices."
+  url: "https://www.javascript.com/"
+
+- name: MySql
+  icon: "/images/sections/skills/mysql.png"
+  summary: "Experienced with creating and querying databases. Knowledgeable about the Software Development Life Cycle."
+  url: "https://www.mysql.com/"
+
+- name: Microsoft Office
+  icon: "/images/sections/skills/office.jpg"
+  summary: "Skilled with various office products including Word, Powerpoint, Excel, Access, and OneNote."
+  url: "https://www.office.com/"
+
+- name: Tableau
+  icon: "/images/sections/skills/tableau.svg"
+  summary: "Experienced in scrubbing data and creating visually pleasing dashboards to convey major points synthesized from large datasets."
+  url: "https://www.tableau.com/"

@@ -11,32 +11,65 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: University of Arizona
+    url: "https://eller.arizona.edu/"
+    location: Tucson, Arizona
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: "Minor - Cyber Operations: Defense & Forensics"
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Management Information Systems Major - Cybersecurity
+    start: September 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - "GPA: 4.0"
+    - "Honors: Phi Theta Kappa Scholarship, Dean's List 2019 & 2020"
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: University of Arizona Esports
+    location: Tucson, Arizona
+    overview: The Esports club hosts events and sponsors official competitive teams for the university
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Operations Team
+    start: September 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Construct a sponsorship deck that showcases the club to secure sponsorships outside of the Arizona demographic
+    - Maintain communication with sponsorships to secure prizes and items for giveaways and events
+    - Manage our professional brand to Esports athletes with professional opportunities after graduation
+
+- company:
+    name: Activision Blizzard
+    url: "https://www.activisionblizzard.com/home"
+    location: Santa Monica, California
+    # company overview
+    overview: Activision Blizzard is a game development and publishing company
+  positions:
+  - designation: Quality Assurance Tester
+    start: September 2016
+    end: August 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Performed over 100 quality assurance tests on a wide variety of released and unreleased products
+    - Learned how to follow strict and rigorous instructions in order to provide the most accurate testing
+    - Gained a keen eye for spotting errors within written reports
+
+- company:
+    name: Las Virgenes Unified School District
+    url: "https://www.lvusd.org/"
+    location: Calabasas, California
+    # company overview
+    overview: LVUSD is a prominent school district in southern California
+  positions:
+  - designation: Contract Stage Manager
+    start: June 2015
+    end: September 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Managed 16 main stage productions and 30 minor productions for an audience of 600 people
+    - Experienced with various techniques utilizing soundboards and sound mixers as well as rigging, lighting boards,carpentry, and metalwork
+    - Prepared colleagues with above standard safety practices and technical knowledge

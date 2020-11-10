@@ -8,32 +8,62 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Student
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: University of Arizona
+  url: "https://eller.arizona.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Resume.pdf"
 
+
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a highly driven student who wants to secure the world through technology. I enjoy tackling problems that require learning in order to solve them efficiently. I also love working in a team, we learn more, and we learn faster. As the saying goes: "two heads are better than one." Check out a deeper dive into who I am at the YouTube link below. '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://youtu.be/OsGtxrHiTnM"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ashwinkhawani543/"
+
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/ashwinkhawani"
+
+- name: Portfolium
+  icon: "fas fa-book-reader"
+  url: "https://portfolium.com/ashwink543"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "ashwink543@gmail.com"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
+# currently supported color: blue, yellow, pink, green
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: Problem Solving
+  percentage: 95
   color: blue
 - name: Team Work
-  percentage: 90
+  percentage: 95
   color: yellow
+- name: Communication
+  percentage: 90
+  color: green
+- name: Public Speaking
+  percentage: 90
+  color: orange
+- name: Creativity
+  percentage: 85
+  color: pink
+- name: Leadership
+  percentage: 85
+  color: sky       

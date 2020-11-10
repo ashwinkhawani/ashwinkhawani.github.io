@@ -28,39 +28,27 @@ projects:
   summary: This visual presentation goes along with the analysis of our research and the recommendations that we made to Growth Partners Arizona to increase their borrower pool. For this project I specifically worked on the visual design and the content on the response pages as well as the hidden slides after the thank you slide.
   tags: ["visual"]
 
-- name: Tensorflow
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
+- name: Executive Summary - Growth Partners Arizona
+  url: https://portfolium.com/entry/growth-partners-arizona-executive-summary-1
+  summary: This executive summary provides a visual look at my team's research and my analysis and recommendations in order to bring in more borrowers to their clientele.
   tags: ["visual"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.examples.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+- name: Marketing Recommendation - Growth Partners Arizona
+  url: "https://portfolium.com/entry/growth-partners-arizona-marketing-recommendation"
+  summary: This document details the company & industry that Growth Partners Arizona is involved with. It also provides SWOTT analysis, Target Segmentation, Competition, and provides various charts to detail some important statistics. I specifically worked on the target segmentation and the competition sections.
   tags: ["written"]
 
-- name: Nocode
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- name: Client Analysis - Growth Partners Arizona
+  url: https://portfolium.com/entry/growth-partners-arizona-client-analysis-1
+  summary: This document was written in order to conduct some background research on the client and to familiarize myself with the industry. It provides an overview of the industry, target markets, products, services, and competitors.
   tags: ["written"]
 
-- name: Toha
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
+- name: Starting and Mid-Career Median Salaries 
+  summary: This project compares starting salaries and mid career salaries for university graduates across the states. 
+  url: https://public.tableau.com/views/StartingandMid-CareerMedianSalariesfor150USUniversities/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
   tags: ["tech"]
 
-- name: Toha
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
+- name: Personal Website
+  repo: https://github.com/ashwinkhawani/ashwinkhawani.github.io
+  summary: A personal website I created using Hugo and GitHub Pages. 
   tags: ["tech"]

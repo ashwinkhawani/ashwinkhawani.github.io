@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
 
-  background: images/video.mp4
+  background: images/video.gif
   # GitHub repo URL of your site
   gitRepo: https://ashwinkhawani.github.io
 

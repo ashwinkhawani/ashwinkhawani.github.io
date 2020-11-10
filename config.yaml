@@ -26,10 +26,6 @@ params:
 
   background: images/video.gif
 
-  logo:
-      main: /static/images/blank.png
-      inverted: /static/images/blank.png
-      favicon: /static/images/blank.png
   # GitHub repo URL of your site
   gitRepo: https://ashwinkhawani.github.io
 

@@ -22,10 +22,10 @@ buttons:
 # your projects
 projects:
 - name: Final Presentation - Growth Partners Arizona
-  # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   url: https://portfolium.com/entry/growth-partners-arizona-final-presentation
-  summary: This visual presentation goes along with the analysis of our research and the recommendations that we made to Growth Partners Arizona to increase their borrower pool. For this project I specifically worked on the visual design and the content on the response pages as well as the hidden slides after the thank you slide.
+  summary: This visual presentation goes along with the analysis of research and the recommendations that was made to Growth Partners Arizona to increase their borrower pool. For this project I specifically worked on the visual design and the content on the response pages as well as the hidden slides after the thank you slide.
   tags: ["visual"]
 
 - name: Executive Summary - Growth Partners Arizona

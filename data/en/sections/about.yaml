@@ -37,9 +37,9 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/ashwinkhawani"
 
-- name: Portfolium
-  icon: "fas fa-book-reader"
-  url: "https://portfolium.com/ashwink543"
+# - name: Portfolium
+#   icon: "fas fa-book-reader"
+#   url: "https://portfolium.com/ashwink543"
 
 - name: Email
   icon: "fas fa-envelope"

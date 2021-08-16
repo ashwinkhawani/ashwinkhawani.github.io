@@ -27,6 +27,19 @@ experiences:
     - "Honors: Phi Theta Kappa Scholarship, Dean's List 2019 & 2020"
 
 - company:
+    name: KPMG
+    location: Santa Clara, California
+    overview: The Esports club hosts events and sponsors official competitive teams for the university
+  positions:
+  - designation: Intern
+    start: June 2021
+    end: August 2021
+    responsibilities:
+    - Performed control testing of various financial, technical, and hardware processes to meet company and governmental compliance standards
+    - Attended walkthroughs to evaluate clients’ business processes in order to verify adherence to stringent design and implementation standards
+    - Documented and presented the results of control testing in a meaningful manner for evaluation by managers
+
+- company:
     name: University of Arizona Esports
     location: Tucson, Arizona
     overview: The Esports club hosts events and sponsors official competitive teams for the university
